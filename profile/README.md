@@ -2,7 +2,8 @@
 
 > 본 프로젝트는 LG 전자의 홈페이지 개선을 위해 LG 전자와 큐시즘이 협력하여 진행한 기업 프로젝트입니다.
 
-<img width="1920" height="1080" alt="readme" src="https://github.com/user-attachments/assets/81aa267d-3ab8-41ef-98c4-d68d5fd02149" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f66fd594-9992-4f04-9939-77f90394b36e" />
+
 
 
 ## 🧐 문제 인식
@@ -43,7 +44,8 @@
 
 ## 🛠️ System Architecture
 
-<img width="1200" alt="image" src="https://github.com/user-attachments/assets/d3dd820c-6b93-4be0-ae03-2987faae7fd8" />
+<img width="1200" alt="image" src="https://github.com/user-attachments/assets/c749000f-b285-4cc2-90df-360dc1460f13" />
+
 
 ---
 
@@ -57,12 +59,12 @@
   <tr>
     <td>
       <a href="https://kusitms-lge-fe.vercel.app/home">
-        <img width="500" alt="image" src="https://github.com/user-attachments/assets/7d154bfd-60ce-4214-a070-c3b7d27b7d28" />
+        <img width="500" alt="image" src="https://github.com/user-attachments/assets/05f80cbf-3316-45ef-9833-eaf573b21fcf" />
       </a>
     </td>
     <td>
       <a href="https://kusitms-lge-fe.vercel.app/category/refrigerators">
-        <img width="500" alt="image" src="https://github.com/user-attachments/assets/5cd18671-c01f-4c7c-891c-817796377a71" />
+        <img width="500" alt="image" src="https://github.com/user-attachments/assets/cd681193-6740-4e50-8d3a-6dd40e3bac3e" />
       </a>
     </td>
   </tr>
@@ -73,12 +75,13 @@
   <tr>
     <td>
       <a href="https://kusitms-lge-fe.vercel.app/category/refrigerators/list">
-        <img width="500" alt="image" src="https://github.com/user-attachments/assets/d6dcc176-55c5-4be7-a5b2-532c34ecf8dd" />
+        <img width="500" alt="image" src="https://github.com/user-attachments/assets/b183c3fe-b417-4db7-b32a-b2518c68e7a5" />
+
       </a>
     </td>
     <td>
       <a href="https://kusitms-lge-fe.vercel.app/compare">
-        <img width="500" alt="image" src="https://github.com/user-attachments/assets/d5bd5ae1-b638-4b26-8da6-a2e692a78d85" />
+        <img width="500" alt="image" src="https://github.com/user-attachments/assets/ecf6ffe4-9d10-41bb-a60d-9c77ba229276" />
       </a>
     </td>
   </tr>
