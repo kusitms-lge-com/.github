@@ -76,7 +76,6 @@
     <td>
       <a href="https://kusitms-lge-fe.vercel.app/category/refrigerators/list">
         <img width="500" alt="image" src="https://github.com/user-attachments/assets/b183c3fe-b417-4db7-b32a-b2518c68e7a5" />
-
       </a>
     </td>
     <td>
